@@ -8,7 +8,7 @@ class hello{
      	// int c = b.a;
 
      	//Widening
-     	int a = 20;
+     	int a = 18;
      	float f = a;
          
          System.out.println(f);
